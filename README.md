@@ -8,9 +8,8 @@
 
 ## Scripts
 - Scripts used to generate test data can be found in the 'scripts' folder.
-- 'run-data-generation.zsh' was used to run the 'generate-test-data.py' script a specified number of times.
 - The 'scripts/setup.md' provides a guide of how to use the scripts with the program's repository.
 
-## Summary
-- Testing summary can be found in the 'summary.md' file.
+## Test report
+- Test report can be found in the 'test-report.pdf' file.
 
